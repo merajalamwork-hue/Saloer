@@ -104,14 +104,6 @@ The button label **"Select options"** typically appears when **not all required 
 
 ---
 
-### 🔗 Related Test Case
 
-See `manual_test_cases_saleor.md`:
-- **TC-010** — Select Product Variant
-- **TC-011** — Add to Cart Without Selecting Variant
-- **TC-012** — Add to Cart With Variant Selected
-- **TC-032** — Add Out-of-Stock Product to Cart
-
----
 
 *Reported as part of Manual QA Testing — Saleor Storefront Portfolio*
