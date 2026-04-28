@@ -41,11 +41,11 @@ The test cases cover the complete end-to-end shopping flow:
 
 | Metric              | Count |
 |---------------------|-------|
-| Total Test Cases    | 35    |
-| High Priority       | 22    |
-| Medium Priority     | 9     |
-| Low Priority        | 4     |
-| Test Suites         | 10    |
+| Total Test Cases    | 29    |
+| High Priority       | 19    |
+| Medium Priority     | 7     |
+| Low Priority        | 3     |
+| Test Suites         | 9    |
 
 ---
 
