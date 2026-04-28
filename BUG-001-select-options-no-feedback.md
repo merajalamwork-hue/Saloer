@@ -72,7 +72,8 @@ After selecting a color and size variant on the **Blue Polygon Shirt** product d
 
 > *(See attached screenshot — blue-polygon-shirt-bug.png)*
 
-![Bug Screenshot](./blue-polygon-shirt-bug.png)
+![Bug Screenshot](<img width="1680" height="1050" alt="Screenshot 2026-04-28 at 12 52 30 PM" src="https://github.com/user-attachments/assets/0b4b82f4-2e74-45ca-8d1f-f9201976885e" />
+)
 
 ---
 
