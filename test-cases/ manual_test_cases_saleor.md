@@ -121,7 +121,7 @@
   1. Do NOT select any variant
   2. Click "Add to Cart"
 - **Expected Result:** An error or prompt appears asking the user to select a variant before adding
-- **Status:**  Fail
+- **Status:**  Pass
 
 ---
 
@@ -132,7 +132,7 @@
   2. Click "Add to Cart"
   3. Observe the cart icon or confirmation
 - **Expected Result:** Product is added to cart; cart count updates (e.g., shows "1"); success notification appears
-- **Status:**  Fail
+- **Status:**  pass
 
 ---
 
